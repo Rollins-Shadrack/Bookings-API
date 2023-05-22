@@ -1,0 +1,3 @@
+The API handles the necessary functionality to ensure data security, user authentication, and proper booking management. It integrates with a database to store and retrieve hotel information, user profiles, and booking records. The API also supports features such as search filters, sorting options, and user reviews/ratings to enhance the user experience and help users make informed decisions.
+
+By providing a comprehensive set of endpoints and functionalities, the Hotel Booking API enables users to explore, book, and manage hotel reservations with ease. It serves as a central hub for hotel owners to promote their establishments and for users to find suitable accommodations for their travel needs.
